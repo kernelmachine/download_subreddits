@@ -1,5 +1,8 @@
 # Download Subreddit Data
 
+install `gnu-parallel`
+
+`sudo apt-get install parallel`
 
 Use `*.txt` files as follows:
 
